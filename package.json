@@ -1,0 +1,39 @@
+{
+  "name": "homepage_tutorial",
+  "version": "1.0.0",
+  "description": "Homepage tutorial",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonoshtia4/homepage_tutorial.git"
+  },
+  "keywords": [],
+  "author": "Yusuke Nonoshita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nonoshtia4/homepage_tutorial/issues"
+  },
+  "homepage": "https://github.com/nonoshtia4/homepage_tutorial#readme",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.17",
+    "@chakra-ui/react": "^1.6.12",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "framer-motion": "^5.2.1",
+    "next": "^12.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "three": "^0.134.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^12.0.2",
+    "prettier": "^2.4.1"
+  }
+}

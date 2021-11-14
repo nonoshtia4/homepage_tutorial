@@ -87,8 +87,8 @@ const home = () => (
           bio
         </heading>
         <biosection>
-          <bioyear>1984</bioyear>
-          born in osaka (大阪), japan.
+          <bioyear>1991</bioyear>
+          born in Chiba, Japan
         </biosection>
         <biosection>
           <bioyear>2010</bioyear>
